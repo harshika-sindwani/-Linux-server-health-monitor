@@ -128,6 +128,17 @@ Add:
 
 The script checks whether required Linux commands are available before execution. If a dependency is missing, it displays an error and records it in a separate error log.
 
+## 📸 Project Screenshots
+
+### 1. Server Health Monitoring
+![Server Health Report](screenshots/health-report.png)
+
+### 2. Threshold-Based Alert Testing
+![Warning and Critical Alerts](screenshots/alert-testing.png)
+
+### 3. Dependency Checking and Error Handling
+![Error Handling](screenshots/error-handling.png)
+
 ## 🎯 Learning Outcomes
 
 - Linux system administration
