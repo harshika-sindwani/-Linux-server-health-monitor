@@ -139,6 +139,12 @@ The script checks whether required Linux commands are available before execution
 ### 3. Dependency Checking and Error Handling
 ![Error Handling](screenshots/error-handling.png)
 
+### 4. Automated Monitoring with Cron
+
+The monitoring script is scheduled to execute automatically every five minutes using Linux Cron.
+
+![Cron Automation](screenshots/cron-automation.png)
+
 ## 🎯 Learning Outcomes
 
 - Linux system administration
